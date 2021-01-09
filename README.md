@@ -14,7 +14,12 @@ $ pip install -r requirements.txt
 The name of the configuration file is arbitrary but requirements.txt is often used.
 
 Put requirements.txt in the directory where the command will be executed. If it is in another directory, specify the path.
+ 
+After installing requiremnts simple run the program with
 
+'''
+$ py main.py
+'''
 
 ----------------------------------
 
