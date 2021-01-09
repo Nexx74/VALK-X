@@ -20,7 +20,7 @@ After installing requiremnts simple run the program with
 '''
 $ py main.py
 '''
-
+Thats IT!
 ----------------------------------
 
 A selfbot is basically a bot inside your own account. It uses your token to post messages as you. It reacts to you and you only. A token is a small piece of encrypted text. It basically is the key all Discord applications will need to connect to the account the app should run on. A selfbot can do everything you can do yourself and a little more. It can, for instance, change your or someone else’s nickname on a server you have the “Manage Nicknames” permission on. It can also be used as a sort of clipboard that posts a large text when a command is typed. Or automatically change your avatar and playing status.
