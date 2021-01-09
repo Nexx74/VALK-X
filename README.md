@@ -20,6 +20,7 @@ After installing requiremnts simple run the program with
 '''
 $ py main.py
 '''
+
 Thats IT!
 ----------------------------------
 
