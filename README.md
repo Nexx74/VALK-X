@@ -1,11 +1,13 @@
 # ATTENTION:
 ```
-Due to some attacks on my repos, all current projects will be officially released on GitHub's release feature
+All current projects will be officially released on GitHub's release feature.
+
 so instead of git clone/download source files please head over to the link below to download the official release!
 
-LINK: https://github.com/Nexx74/VALK-X/releases/tag/1.0
+This is a complied code that can run without any use of code.
 
-as for the attackers fuck you u retarded cunts man up and dm me on discord rax#6630
+LINK: https://github.com/Nexx74/VALK-X/releases/tag/2.0
+
 ```
 
 # VALK-X
