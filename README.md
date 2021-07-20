@@ -9,6 +9,8 @@ This is a complied code that can run without any use of code.
 LINK: https://github.com/Nexx74/VALK-X/releases/tag/2.0
 
 ```
+* [CLICK ME](https://github.com/Nexx74/VALK-X/releases/tag/2.0)
+
 
 # VALK-X
 Discord Selfbot Written in py
